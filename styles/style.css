@@ -518,9 +518,6 @@ max-width: 1480px;
                                             margin: 2.5% 0 5%;
                                         }
                                     
-                                        .labels {
-                                            margin-top: -23.5%;
-                                        }
                                         .comments__container {
                                             max-width: 92.5%;
                                         }
@@ -615,7 +612,7 @@ max-width: 1480px;
                                         }
                                         .labels {
                                             margin-left: 3%;
-                                            margin-top: -25%;
+                                            margin-top: -50%;
                                         }
                                         .video__duration {
                                             margin-top: 50px;
@@ -771,7 +768,7 @@ max-width: 1480px;
                                             margin-bottom: 11%;
                                         }
                                         .labels {
-                                            margin-left: 3%;
+                                         
                                             width: 300px;
                                             height: 173px;
                                             display: flex;
@@ -974,6 +971,7 @@ max-width: 1480px;
                                             margin-left: 8%;
                                             width: 300px;
                                             height: 65px;
+                                            margin-top: -25%;
                                         }
                                         .comments {
                                             padding-top: 15%;
