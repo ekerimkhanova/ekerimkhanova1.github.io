@@ -34,6 +34,7 @@ opacity: .7;
 
 body{
 margin: 0 auto;
+max-width: 1480px;
 }
 
 .comments {
@@ -439,7 +440,7 @@ margin: 0 auto;
                                     .labels {
                                         margin-left: 2%;
                                         position: absolute;
-                                        margin-top: -21%;
+                                        margin-top: -45%;
                                     }
                                     .video__container {
                                         display: flex;
