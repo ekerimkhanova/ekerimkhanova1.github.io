@@ -440,7 +440,7 @@ max-width: 1480px;
                                     .labels {
                                         margin-left: 2%;
                                         position: absolute;
-                                        margin-top: -45%;
+                                        margin-top: -50%;
                                     }
                                     .video__container {
                                         display: flex;
@@ -612,7 +612,7 @@ max-width: 1480px;
                                         }
                                         .labels {
                                             margin-left: 3%;
-                                            margin-top: -50%;
+                                            margin-top: -55%;
                                         }
                                         .video__duration {
                                             margin-top: 50px;
